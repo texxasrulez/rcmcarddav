@@ -22,7 +22,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "git://github.com/blind-coder/rcmcarddav.git"
+            "url": "git://github.com/texxasrulez/rcmcarddav.git"
         }
     ],
     "require": {
