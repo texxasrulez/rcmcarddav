@@ -58,7 +58,7 @@
         },
         {
             "name": "sabre/vobject",
-            "version": "3.0.9",
+            "version": "*",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sabre-io/vobject.git",
