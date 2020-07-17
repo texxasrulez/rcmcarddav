@@ -3,7 +3,7 @@
     "type": "roundcube-plugin",
     "description": "CardDAV adapter for connecting to CardDAV-enabled addressbooks",
     "keywords": ["addressbook","carddav","contacts","owncloud","davical"],
-    "homepage": "https://www.benjamin-schieder.de/carddav.html",
+    "homepage": "https://www.genesworld.net",
     "license": "GPL-2.0",
     "version": "3.0.3",
     "authors": [
@@ -21,8 +21,8 @@
     ],
     "repositories": [
         {
-            "type": "vcs",
-            "url": "git://github.com/texxasrulez/rcmcarddav.git"
+            "type": "composer",
+            "url": "https://plugins.roundcube.net"
         }
     ],
     "require": {
